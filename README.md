@@ -1,26 +1,20 @@
-Fastway Customer App:
-Welcome Screen & Language Selection:
-Users are greeted with a welcome message and can select their preferred language (English, Tamil, Sinhala).
-User Roles:
-Options for "Passenger" and "Driver" roles.
-Authentication:
-Login and sign-up screens with options to reset passwords.
-Registration requires full name, NIC number, mobile number, email, and password.
-Verification:
-A verification code system for account activation.
-Booking System:
-Users can find buses, select pick-up and destination points, and proceed with booking.
-User Dashboard:
-Features include QR code payment, payment method selection, saved addresses, travel history, and settings.
-Payment:
-Integration with various payment methods (e.g., BOC card, NSB card).
+Project Name: Fastway Customer & Driver Apps
+Description:
+The Fastway Customer and Driver Apps are designed to streamline the process of connecting passengers with drivers efficiently and securely. 
 
 Fastway Driver App:
-Welcome Screen & Authentication:
-Similar to the customer app, with login and registration options.
-Registration includes details like driver name, NIC number, mobile number, bus number, and password.
-Verification:
-Drivers also have a verification code system for account activation.
-Driver Dashboard:
-Includes functionalities such as finding passengers, scanning QR codes for pick-up and drop-off, viewing payment methods, passenger count, travel history, and settings.
-Both applications aim to streamline the process of booking and managing bus travel, offering a seamless and user-friendly experience for both passengers and drivers. The document provides detailed screens and instructions for each step, ensuring clarity in the user journey from registration to booking and travel management.
+
+Features:
+Secure driver verification and registration.
+Intuitive dashboard to manage rides and view schedules.
+QR code functionality to validate passenger details.
+This project showcases my expertise in UI/UX design and prototyping using Figma. It highlights my ability to create innovative and user-centric interfaces for real-world applications in the transportation sector.
+
+Tools & Technologies Used:
+
+Design & Prototyping: Figma
+Key Contributions:
+
+Designed engaging and intuitive interfaces for both customer and driver workflows.
+Implemented secure and efficient verification mechanisms using QR codes.
+Focused on creating a seamless user experience with clear navigation and functionality.
